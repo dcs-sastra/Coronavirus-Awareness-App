@@ -18,4 +18,4 @@ height= "30%">
 ### Statistics
   <img src = "https://user-images.githubusercontent.com/48803263/78816864-ea1af000-79ef-11ea-8182-7c2461dc60bb.png" width ="30%"
 height= "30%">
-- Displays realtime data of people affected and their country
+- Displays realtime data of no of people affected and their country
